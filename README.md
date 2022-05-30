@@ -45,8 +45,8 @@ Here're the screenshots of my development:
 
 ### Project Live Links
 
-- Github URL: [Add solution URL here](https://your-solution-url.com)
-- Netlify URL: [Add live site URL here](https://your-live-site-url.com)
+- Github URL: [Link](https://philipsdotdev.github.io/fiorella-guayama-courses-questionnaire-/)
+- Netlify URL: [quiz-landing-page-fiorella.netlify.app/](https://quiz-landing-page-fiorella.netlify.app/)
 
 
 ## The Development Process
