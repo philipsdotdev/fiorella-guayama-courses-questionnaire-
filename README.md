@@ -12,6 +12,7 @@ I had access only to the shot in JPEG format. I got all dimensions and color cod
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Mobile View](#mobile-view)
   - [Project Live Links](#project-live-links)
 - [The Development Process](#the-development-process)
   - [Built With](#built-with)
@@ -25,7 +26,7 @@ I had access only to the shot in JPEG format. I got all dimensions and color cod
 
 As a user, you should be able to:
 
-- View the optimal layout depending on their device's screen size `(Still working on this)`
+- View the optimal layout depending on their device's screen size `(Still working on this)` **Update** `(Milestone Achieved!)`
 - See hover states for interactive elements
 
 ### Screenshot
@@ -36,12 +37,20 @@ Here're the screenshots of my development:
 
 ![Fullscreen](./readme/Philip.dev_development-shot-for-fiorella-guayama-fullscreen.png)
 
+**Hover State 1**
 
 ![Hover State 1](./readme/Philip.dev_development-shot-for-fiorella-guayama-hover-state-1.PNG)
 
+**Hover State 2**
 
 ![Hover State 2](./readme/Philip.dev_development-shot-for-fiorella-guayama-hover-state-2.png)
 
+
+### Mobile View
+
+**Responsive View**
+
+![Mobile View](./readme/Philip.dev_development-shot-for-fiorella-guayama-mobile-view-reduced-size.png)
 
 ### Project Live Links
 
@@ -60,7 +69,7 @@ Here're the screenshots of my development:
 - CSS Animation
 - CSS Variables
 - Complex CSS gradients manipulation
-- Media Query `(Still working on this)`
+- Media Query `(Still working on this)` **Update** `(Milestone Achieved!)`
 
 ### Cool Stuff I learned
 
